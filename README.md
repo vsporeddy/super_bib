@@ -1,4 +1,4 @@
 super_bib
 =========
 
-Bibliography Chrome extension
+Enable developer mode in Chrome extension and load the super_bib folder as an unpacked extension.
